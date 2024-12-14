@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.bolt"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	]
+}
